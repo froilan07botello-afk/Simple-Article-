@@ -22,7 +22,7 @@ Deberás desarrollar una página web con HTML y CSS que muestre un listado de ar
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [https://github.com/froilan07botello-afk/Simple-Article-]  
-Deploy: [LINK]()
+Deploy: [LINK](https://froilan07botello-afk.github.io/Simple-Article-/)
 ---
 
 ## 📝 Reflexión
